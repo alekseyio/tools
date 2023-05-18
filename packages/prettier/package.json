@@ -1,0 +1,14 @@
+{
+  "name": "prettier",
+  "private": true,
+  "version": "0.0.1",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Aleksey Kuznetsov",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}
